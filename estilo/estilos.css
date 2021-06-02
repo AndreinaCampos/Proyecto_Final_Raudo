@@ -307,6 +307,7 @@ width: 900px;
 
 display: flex;
 justify-content: center;
+margin-top: 20px;
 }
  
 .div_logo_forms{
@@ -433,6 +434,9 @@ justify-content: center;
 .text_ext{
 
     color: white;
+
+    margin-left: 10px;
+    margin-right: 20px;
 }
 
 
